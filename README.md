@@ -243,7 +243,7 @@ The Agent Development Kit ([ADK](https://google.github.io/adk-docs/)) is a flexi
 
 ADK offers various agent types designed to facilitate the creation of advanced applications. These categories provide a structured approach to development, enabling builders to leverage specific functionalities tailored to different GenAI use cases. Understanding these distinct categories is crucial for effectively utilizing the ADK to construct sophisticated and targeted solutions.  
 
-<img src="images/19_.png" width="600">
+<img src="images/19_.png" width="800">
 
 ## Using different LLM models with ADK 
 {#using-different-llm-models-with-adk}
@@ -268,7 +268,7 @@ Within the Agent Development Kit (ADK), a Tool equips AI agents with specific fu
 
 From a technical perspective, a tool is usually a self-contained piece of code, such as a Python or Java function, a class method, or even another specialized agent. These tools are built to perform specific, predetermined tasks, frequently involving interactions with external systems or data sources.
 
-<img src="images/20_.png" width="600">
+<img src="images/20_.png" width="800">
 
 Tools perform specific actions, such as:
 
