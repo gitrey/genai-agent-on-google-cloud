@@ -221,7 +221,7 @@ After creating your agent in AI Applications (Agent Builder), integrate it withi
 ## Agent Builder Codelab 
 {#agent-builder-codelab}
 
-<img src="images/18_.png" width="600">
+<img src="images/18_.png" width="800">
 
 Checkout this codelab that shows how to build **GenAI Agent in Slack for Q\&A over docs and actions with API calls:** [https://codelabs.developers.google.com/genai-for-dev-slack-agent](https://codelabs.developers.google.com/genai-for-dev-slack-agent) 
 
