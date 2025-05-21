@@ -297,7 +297,7 @@ Here are couple of examples:
 
 Depending on your requirements for production readiness and the need for custom flexibility, your ADK agent offers deployment options across various environments.  
 
-<img src="images/22_.png" width="600">
+<img src="images/22_.png" width="800">
 
 ## Agent Garden 
 {#agent-garden}
