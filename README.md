@@ -153,13 +153,20 @@ Options to create a new Agent:
 
 <img src="images/7_.png" width="400">
 
-Left side menu with the options:
-
-<img src="images/8_.png" width="200">
-
-New Agent screen:
-
-<img src="images/9_.png" width="800">
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      Left side menu with the options:
+      <br>
+      <img src="images/8_.png" alt="Left side menu options" width="200">
+    </td>
+    <td style="vertical-align: top;">
+      New Agent screen:
+      <br>
+      <img src="images/9_.png" alt="New Agent screen" width="800">
+    </td>
+  </tr>
+</table>
 
 ## Tools 
 {#tools}
