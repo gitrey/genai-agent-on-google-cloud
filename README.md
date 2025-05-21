@@ -1,6 +1,9 @@
 # So You want to build a GenAI Agent on Google Cloud?
 
+---
 **\* The opinions expressed in this article are solely those of the author([Andrey Shakirov](https://www.linkedin.com/in/andrey-shakirov-000b4a5/)) and do not reflect the views of their employer.**
+
+---
 
 This article will go over some of the options(there are a few, as you guessed already 🙂 ) you have to build a GenAI Agent on Google Cloud platform. It will discuss both low code, no-code options (Agentspace, Agent Build|AI Applications) as well as frameworks(Agent Development Kit, ADK) that developers can use to build and deploy multi-agent systems.
 
@@ -357,6 +360,8 @@ For quick deployment and ease of use, **Agentspace** provides pre-built agents a
 
 Developers seeking maximum flexibility and control can utilize the **Agent Development Kit (ADK)**, an open-source toolkit for building sophisticated multi-agent systems with various LLM integrations.
 
-—-----------
+---
 
 **\* The opinions expressed in this article are solely those of the author([Andrey Shakirov](https://www.linkedin.com/in/andrey-shakirov-000b4a5/)) and do not reflect the views of their employer.**
+
+---
