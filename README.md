@@ -70,7 +70,7 @@ This article outlines the key topics for building GenAI Agents on Google Cloud.
 # Agentspace 
 {#agentspace}
 
-<img src="images/1_.png" width="800">
+<img src="images/agentspace-overview.png" width="800">
 
 ## Overview 
 {#overview}
@@ -329,6 +329,9 @@ You can use your favorite tool postman to test your MCP server tools/endpoints:
 <img src="images/24_.png" width="400">
 
 <img src="images/25_.png" width="800">
+
+## How it all fits together:
+<img src="images/agent-engine.png" width="800">
 
 # Real-world use cases 
 {#real-world-use-cases}
