@@ -286,7 +286,7 @@ ADK helps you both use and consume MCP tools in your agents, whether you're tryi
 
 Here are couple of examples:
 
-**ADK Agent and FastMCP** server integration: [https://github.com/gitrey/adk-fastmcp](https://github.com/gitrey/adk-fastmcp) 
+**ADK Agent and FastMCP** server deployed on Cloud Run with authentication enabled integration: [https://github.com/gitrey/adk-fastmcp](https://github.com/gitrey/adk-fastmcp) 
 
 **MCP Toolbox for Databases** is an [open source](https://github.com/googleapis/genai-toolbox) MCP server that helps you build Gen AI tools so that your agents can access data in your database. Google’s Agent Development Kit (ADK) has built in support for The MCP Toolbox for Databases.
 
