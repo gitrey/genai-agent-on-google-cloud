@@ -64,7 +64,8 @@ This article outlines the key topics for building GenAI Agents on Google Cloud.
 
 [Conclusion](#conclusion)
 
-# Agentspace {#agentspace}
+# Agentspace 
+{#agentspace}
 
 <img src="images/1_.png" width="800">
 
