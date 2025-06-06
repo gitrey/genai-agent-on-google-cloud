@@ -374,6 +374,15 @@ Developers seeking maximum flexibility and control can utilize the **Agent Devel
 
 ---
 
+### This is series of articles on building and deploying applications on Google Cloud that unpack discussed options in more details.
+
+1.  [Design, Prototype, Build, and Deploy on Google Cloud: A Comprehensive Guide](https://github.com/gitrey/design-prototype-build-deploy-on-gcp)
+
+2.  [So You've Built Your Idea and Want to Share It with the World?](https://github.com/gitrey/deployment-options-on-gcp)
+
+
+---
+
 **\* The opinions expressed in this article are solely those of the author([Andrey Shakirov](https://www.linkedin.com/in/andrey-shakirov-000b4a5/)) and do not reflect the views of their employer.**
 
 ---
