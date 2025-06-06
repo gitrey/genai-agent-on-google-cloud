@@ -301,6 +301,14 @@ Here are couple of examples:
 
 <img src="images/21_.png" width="600">
 
+### Pre-built tools allow you to connect to various databases from your IDE:
+
+<img src="images/21_1.jpeg" width="800">
+
+### Sample config for VSCode to connect to local PostgreSQL database:
+
+<img src="images/21_2.jpeg" width="1000">
+
 ## Deployment 
 {#deployment}
 
